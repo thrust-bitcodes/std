@@ -1,5 +1,5 @@
 # STD
-Biblioteca que serve de interface para a entrada e saída padrão. Funciona como ponto para acesso as APIs do Java.
+Biblioteca que serve de interface para a entrada e saída padrão. Funciona como ponte para acesso as APIs do Java.
 
 ## Utilização
 
